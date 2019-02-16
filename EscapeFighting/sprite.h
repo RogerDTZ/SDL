@@ -1,16 +1,22 @@
 #pragma once
 
-#include <SDL.h>
+#include "Resource.h"
+
+struct Texture;
 
 class Sprite {
 public:
 	float x, y;
 	float rotate;
 	float alpha;
-	bool enable;
-	Sprite(const char *texturePath);
+	bool active;
+	Sprite();
+	Sprite(Texture* texture);
 	~Sprite();
-	void update();
+	void Draw();
+	void Zoom(float a);
+	void ZoomBy(int which, float a);
+
 private:
-	SDL_Texture *texture;
+	Texture * texture;
 };

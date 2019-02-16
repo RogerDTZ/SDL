@@ -1,8 +1,24 @@
 ﻿  App.cpp
+c:\users\rogerdtz\source\repos\sdl\escapefighting\app.cpp(20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Renderer.cpp
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(24): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(26): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(27): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(64): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(71): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(72): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(73): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\renderer.cpp(74): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
   Resource.cpp
-c:\users\rogerdtz\source\repos\escapefighting\escapefighting\testscene.h(13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
-c:\users\rogerdtz\source\repos\escapefighting\escapefighting\testscene.h(13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-c:\users\rogerdtz\source\repos\escapefighting\escapefighting\testscene.h(13): error C2238: 意外的标记位于“;”之前
-  main.cpp
+  Scene.cpp
+  Sprite.cpp
   TestScene.cpp
+c:\users\rogerdtz\source\repos\sdl\escapefighting\testscene.cpp(23): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\testscene.cpp(30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\rogerdtz\source\repos\sdl\escapefighting\testscene.cpp(31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  main.cpp
   正在生成代码...
+  EscapeFighting.vcxproj -> C:\Users\RogerDTZ\source\repos\SDL\Debug\EscapeFighting.exe
